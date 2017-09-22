@@ -282,11 +282,7 @@ input[type=submit] {
     width: 48%;
   }
 }
-  /* Second Break Point : 768px  End */
-  /* ================================ */
 
-  /* Third Break Point : 640px  Start */
-  /* ================================ */  
 @media screen and (max-width: 640px) {
   .container{
     max-width: 100%;
